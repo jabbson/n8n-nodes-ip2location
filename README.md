@@ -1,6 +1,6 @@
 # n8n-nodes-ip2location
 
-This is an n8n community node. It lets you use ip2location.com in your n8n workflows.
+This is an n8n community node. It lets you use [ip2location.com](ip2location.com) in your n8n workflows.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -18,10 +18,10 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 ## Operations
 
-ip2locatopm has three actions:
-	- ip2location, which returns information about a given IP address
-	- ip2whoisDomain, which return information about a given domain
-	- ip2whoisHostedDomain, which returns information about domains for a given IP address
+ip2location has three actions:
+ - **ip2location**, which returns information about a given IP address
+ - **ip2whoisDomain**, which return information about a given domain
+ - **ip2whoisHostedDomain**, which returns information about domains for a given IP address
 
 ## Credentials
 
